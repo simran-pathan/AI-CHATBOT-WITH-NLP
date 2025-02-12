@@ -46,5 +46,7 @@ Response is displayed in the GUI.
 Chat continues until the user exits.
 
 *OUTPUT*:
+
+
 ![Image](https://github.com/user-attachments/assets/119ac6aa-0233-4bca-9b67-da02d8290636)
 
